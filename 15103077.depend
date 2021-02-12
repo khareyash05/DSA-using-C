@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1480661185 source:c:\users\ankit paliwal\desktop\15103077\main.c
+	"prototype.h"
+	"Definitions.c"
+
+1480661026 c:\users\ankit paliwal\desktop\15103077\prototype.h
+	<stdio.h>
+	<stdlib.h>
+
+1480661159 c:\users\ankit paliwal\desktop\15103077\definitions.c
+
+1480706392 source:d:\15103077\main.c
+	"prototype.h"
+	"Definitions.c"
+
+1480706314 d:\15103077\prototype.h
+	<stdio.h>
+	<stdlib.h>
+
+1480706944 d:\15103077\definitions.c
+
+1480659578 source:e:\15103077\main.c
+	"prototype.h"
+	"Definitions.c"
+
+1480659640 e:\15103077\prototype.h
+	<stdio.h>
+	<stdlib.h>
+
+1480659642 e:\15103077\definitions.c
+
+1480824900 source:c:\users\ankit paliwal\desktop\dsa project\main.c
+	"prototype.h"
+	"Definitions.c"
+
+1480661026 c:\users\ankit paliwal\desktop\dsa project\prototype.h
+	<stdio.h>
+	<stdlib.h>
+
+1480661159 c:\users\ankit paliwal\desktop\dsa project\definitions.c
+
